@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RayTracingEngine", "RayTracingEngine.vcxproj", "{D294D2C5-D8D8-4E65-8B97-E82C539F07F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D294D2C5-D8D8-4E65-8B97-E82C539F07F7}.Debug|x64.ActiveCfg = Debug|x64
+		{D294D2C5-D8D8-4E65-8B97-E82C539F07F7}.Debug|x64.Build.0 = Debug|x64
+		{D294D2C5-D8D8-4E65-8B97-E82C539F07F7}.Release|x64.ActiveCfg = Release|x64
+		{D294D2C5-D8D8-4E65-8B97-E82C539F07F7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD789925-7D9D-4A8F-973C-1165302CBC74}
+	EndGlobalSection
+EndGlobal
